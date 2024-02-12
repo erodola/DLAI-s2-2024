@@ -11,7 +11,7 @@ Course material, 2nd semester a.y. 2023/2024, Dept. of Computer Science
 
 **Assistants:** Dr. Donato Crisostomi
 
-**When:** Mondays 13:00--15:00 and Tuesdays 13:00--16:00
+**When:** Mondays 14:00--16:00 and Tuesdays 13:00--16:00
 
 **Where:**
 
