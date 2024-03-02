@@ -31,6 +31,8 @@ Due to the continuously evolving nature of the topic, there is no fixed textbook
 
 In addition, [here](https://github.com/erodola/DLAI-s2-2022/raw/main/resources/Course_notes_Crisostomi.pdf) you can find some supplementary course notes.
 
+**Accessibility**: Starting from this semester, in an effort to create a more inclusive and accessible learning environment, all slides have been re-designed with readability in mind to support students with specific learning disabilities. We aim to ensure that everyone, regardless of learning differences, has equal access to the educational content provided. Should you need additional accommodations or have suggestions for further improving accessibility, please feel free to reach out.
+
 ### Grading
 
 Evaluation proceeds according to the following steps:
