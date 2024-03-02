@@ -59,4 +59,5 @@ Here you can find some example sheets of past written exams:
 ------------ | ------------- | ------------ | ------------
 Mon 26 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/01_intro/01-intro.pdf) |
 Tue 27 Feb | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/02_data/02-data.pdf) ; [linear algebra recap](https://github.com/erodola/DLAI-s2-2024/raw/main/02_data/03-linalg.pdf) ; [matrix notes](https://github.com/erodola/DLAI-s2-2024/raw/main/02_data/03b-matrix.pdf) |
+Mon 04 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/04_linear/04-linear.pdf) |
 
