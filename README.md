@@ -2,10 +2,10 @@
 
 Course material, 2nd semester a.y. 2023/2024, Dept. of Computer Science
 
-### News
+## News 🗞️
 - **05/02/2024:** The course website is online. Welcome to DLAI 2023/24! **The course will start on Mon 26th February**.
 
-### Logistics
+## Logistics 🧭
 
 **Lecturer:** Prof. Emanuele Rodolà
 
@@ -21,11 +21,11 @@ There is no virtual classroom, and the lectures will not be recorded.
 
 **Q & A:** We will use a [Discord](https://discord.com/) server. More details during the first lessons.
 
-### Pre-requisites
+## Pre-requisites
 
 Python fundamentals; calculus; linear algebra.
 
-### Textbook and reading material
+## Textbook and reading material
 
 Due to the continuously evolving nature of the topic, there is no fixed textbook as a reference. Specific material in the form of scientific articles and book chapters will be given throughout the lectures.
 
@@ -33,7 +33,7 @@ In addition, [here](https://github.com/erodola/DLAI-s2-2022/raw/main/resources/C
 
 **Accessibility**: Starting from this semester, in an effort to create a more inclusive and accessible learning environment, all slides have been re-designed with readability in mind to support students with specific learning disabilities. We aim to ensure that everyone, regardless of learning differences, has equal access to the educational content provided. Should you need additional accommodations or have suggestions for further improving accessibility, please feel free to reach out.
 
-### Grading
+## Grading
 
 Evaluation proceeds according to the following steps:
 
@@ -53,7 +53,7 @@ Here you can find some example sheets of past written exams:
 - [January 2022](https://github.com/erodola/DLAI-s2-2022/raw/main/exams/Jan22.pdf)
 - [February 2022](https://github.com/erodola/DLAI-s2-2022/raw/main/exams/Feb22.pdf)
 
-### Lectures
+## Lectures
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
