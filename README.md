@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Dept. of Computer Science
 
 ## News 🗞️
+- **12/03/2024:** Added an explanation for the solution of the final **Exercise 3 of Notebook 2** (Tensor operations).
 - **05/02/2024:** The course website is online. Welcome to DLAI 2023/24! **The course will start on Mon 26th February**.
 
 ## Logistics 🧭
