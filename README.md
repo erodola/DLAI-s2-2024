@@ -65,3 +65,4 @@ Tue 05 Mar | Tensor basics and Tensor operations | | [![Open In Colab](https://c
 Mon 11 Mar | Overfitting and going nonlinear | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/05_nonlinear/05-nonlinear.pdf) |
 Tue 12 Mar | Linear models and Pytorch Datasets | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/03_Linear_models_and_Pytorch_Datasets.ipynb)
 Mon 18 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/06_sgd/06-sgd.pdf) |
+Tue 19 Mar | Logistic Regression and Optimization | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/04_Logistic_Regression_and_Optimization.ipynb)
