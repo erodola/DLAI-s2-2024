@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Dept. of Computer Science
 
 ## News 🗞️
+- **22/03/2024:** Mark your calendars! The **exam dates** ✍ are now published (scroll down to the _Grading_ section).
 - **20/03/2024:** The lecture of **Monday 8 April** will be held in **Aula RE3, Building A of Viale Regina Elena 291**.
 - **12/03/2024:** Added an explanation for the solution of the final **Exercise 3 of Notebook 2** (Tensor operations).
 - **05/02/2024:** The course website is online. Welcome to DLAI 2023/24! **The course will start on Mon 26th February**.
@@ -36,6 +37,11 @@ In addition, [here](https://github.com/erodola/DLAI-s2-2022/raw/main/resources/C
 **Accessibility 👁️‍🗨️**: Starting from this semester, in an effort to create a more inclusive and accessible learning environment, all slides have been re-designed with readability in mind to support students with specific learning disabilities. We aim to ensure that everyone, regardless of learning differences, has equal access to the educational content provided. Should you need additional accommodations or have suggestions for further improving accessibility, please feel free to reach out.
 
 ## Grading 📊
+
+**Exam dates**
+- 5 June 2024
+- 10 July 2024
+- 10 September 2024
 
 Evaluation proceeds according to the following steps:
 
