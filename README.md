@@ -73,9 +73,11 @@ Mon 11 Mar | Overfitting and going nonlinear | [slides](https://github.com/erodo
 Tue 12 Mar | Linear models and Pytorch Datasets | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/03_Linear_models_and_Pytorch_Datasets.ipynb)
 Mon 18 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/06_sgd/06-sgd.pdf) |
 Tue 19 Mar | Logistic Regression and Optimization | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/04_Logistic_Regression_and_Optimization.ipynb)
-Mon 25 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/07_mlp/07-mlp.pdf)
+Mon 25 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/07_mlp/07-mlp.pdf) |
 Tue 26 Mar | Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/05_Autograd_and_Modules.ipynb)
 Mon 01 Apr | **Easter holidays** |  |  
 Tue 02 Apr | **Easter holidays** |  |  
-Mon 08 Apr | Convolutional neural networks | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/08_cnn/08-cnn.pdf)
+Mon 08 Apr | Convolutional neural networks | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/08_cnn/08-cnn.pdf) |
 Tue 09 Apr | Convolutional neural networks | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/06_Convolutional_Neural_Networks.ipynb)
+Mon 15 Apr | Regularization, batchnorm and dropout | upcoming |
+Tue 16 Apr | TBD | |
