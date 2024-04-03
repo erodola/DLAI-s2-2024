@@ -81,3 +81,5 @@ Mon 08 Apr | Convolutional neural networks | [slides](https://github.com/erodola
 Tue 09 Apr | Convolutional neural networks | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/06_Convolutional_Neural_Networks.ipynb)
 Mon 15 Apr | Regularization, batchnorm and dropout | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/09_regular/09-regular.pdf) |
 Tue 16 Apr | Uncertainty, regularization and the deep learning toolset | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/07_Uncertainty_regularization_and_the_DL_toolset.ipynb)
+Mon 22 Apr | PCA and VAEs | _upcoming_ |
+Tue 23 Apr | TBD | | _upcoming_
