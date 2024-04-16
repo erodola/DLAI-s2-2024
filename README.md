@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Dept. of Computer Science
 
 ## News 🗞️
+- **16/04/2024:** The **midterm self-assessment** will take place on April 29th.
 - **22/03/2024:** Mark your calendars! The **exam dates** ✍ are now published (scroll down to the _Grading_ section).
 - **20/03/2024:** The lecture of **Monday 8 April** will be held in **Aula RE3, Building A of Viale Regina Elena 291**.
 - **12/03/2024:** Added an explanation for the solution of the final **Exercise 3 of Notebook 2** (Tensor operations).
