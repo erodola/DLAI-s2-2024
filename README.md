@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Dept. of Computer Science
 
 ## News 🗞️
+- **29/04/2024:** The midterm sheet is published, scroll down to download it.
 - **16/04/2024:** The **midterm self-assessment** will take place on April 29th.
 - **22/03/2024:** Mark your calendars! The **exam dates** ✍ are now published (scroll down to the _Grading_ section).
 - **20/03/2024:** The lecture of **Monday 8 April** will be held in **Aula RE3, Building A of Viale Regina Elena 291**.
@@ -84,5 +85,5 @@ Mon 15 Apr | Regularization, batchnorm and dropout | [slides](https://github.com
 Tue 16 Apr | Uncertainty, regularization and the deep learning toolset | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/07_Uncertainty_regularization_and_the_DL_toolset.ipynb)
 Mon 22 Apr | PCA and VAEs | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/10_pcavae/10-pcavae.pdf) |
 Tue 23 Apr | Variational Autoencoders | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/08_Variational_Autoencoders_(VAEs).ipynb) 
-Mon 29 Apr | **Midterm** | _upcoming_ |
+Mon 29 Apr | **Midterm** | [sheet](https://github.com/erodola/DLAI-s2-2024/raw/main/midterm.pdf) |
 Tue 30 Apr | Lab catch-up |  | _complete all the published notebooks_
