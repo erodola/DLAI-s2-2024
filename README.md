@@ -87,3 +87,4 @@ Mon 22 Apr | PCA and VAEs | [slides](https://github.com/erodola/DLAI-s2-2024/raw
 Tue 23 Apr | Variational Autoencoders | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/08_Variational_Autoencoders_(VAEs).ipynb) 
 Mon 29 Apr | **Midterm** | [sheet](https://github.com/erodola/DLAI-s2-2024/raw/main/midterm.pdf) |
 Tue 30 Apr | Lab catch-up |  | _complete all the published notebooks_
+Mon 06 May | Adversarial learning | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/11_adversarial/11-adversarial.pdf) |
