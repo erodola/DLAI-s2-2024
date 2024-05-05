@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Dept. of Computer Science
 
 ## News 🗞️
+- **05/05/2024:** Due to the Professor and the entire research team attending [ICLR 2024](https://iclr.cc/) to present several works, the lab session of **Tue 07 May will be conducted offline**. Reach out to the Professor via email for questions and issues on the notebook.
 - **29/04/2024:** The midterm sheet is published, scroll down to download it. **If you want me to grade your answers, please send your solutions via email by 17:00**.
 - **16/04/2024:** The **midterm self-assessment** will take place on April 29th.
 - **22/03/2024:** Mark your calendars! The **exam dates** ✍ are now published (scroll down to the _Grading_ section).
@@ -88,3 +89,10 @@ Tue 23 Apr | Variational Autoencoders | | [![Open In Colab](https://colab.resear
 Mon 29 Apr | **Midterm** | [sheet](https://github.com/erodola/DLAI-s2-2024/raw/main/midterm.pdf) |
 Tue 30 Apr | Lab catch-up |  | _complete all the published notebooks_
 Mon 06 May | Adversarial learning | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/11_adversarial/11-adversarial.pdf) |
+Tue 07 May | CycleGAN and Adversarial Attacks | | _upcoming_
+Mon 13 May | TBD |  |
+Tue 14 May | TBD |  |
+Mon 20 May | TBD |  |
+Tue 21 May | TBD |  |
+
+**End**
