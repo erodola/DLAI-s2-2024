@@ -89,7 +89,7 @@ Tue 23 Apr | Variational Autoencoders | | [![Open In Colab](https://colab.resear
 Mon 29 Apr | **Midterm** | [sheet](https://github.com/erodola/DLAI-s2-2024/raw/main/midterm.pdf) |
 Tue 30 Apr | Lab catch-up |  | _complete all the published notebooks_
 Mon 06 May | Adversarial learning | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/11_adversarial/11-adversarial.pdf) |
-Tue 07 May | CycleGAN and Adversarial Attacks | | _upcoming_
+Tue 07 May | CycleGAN and Adversarial Attacks | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/09_CycleGAN_and_Adversarial_Attacks.ipynb) 
 Mon 13 May | TBD |  |
 Tue 14 May | TBD |  |
 Mon 20 May | TBD |  |
