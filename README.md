@@ -97,7 +97,7 @@ Mon 06 May | Adversarial learning | [slides](https://github.com/erodola/DLAI-s2-
 Tue 07 May | CycleGAN and Adversarial Attacks | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/09_CycleGAN_and_Adversarial_Attacks.ipynb) 
 Mon 13 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/12_gdl/12-gdl.pdf) ; [video](https://youtu.be/w6Pw4MOzMuo) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/10_Geometric_deep_learning.ipynb)  |
 Tue 14 May | Reinforcement Learning tutorial | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/13_rl_tutorial/rl_intro.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/11_qlearning.ipynb)
-Mon 20 May | TBD |  |
+Mon 20 May | Self-attention and transformers | *upcoming* | *upcoming*
 Tue 21 May | TBD |  |
 
 **End**
