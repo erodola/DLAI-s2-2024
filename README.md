@@ -98,6 +98,6 @@ Tue 07 May | CycleGAN and Adversarial Attacks | | [![Open In Colab](https://cola
 Mon 13 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/12_gdl/12-gdl.pdf) ; [video](https://youtu.be/w6Pw4MOzMuo) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/10_Geometric_deep_learning.ipynb)  |
 Tue 14 May | Reinforcement Learning tutorial | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/13_rl_tutorial/rl_intro.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/11_qlearning.ipynb)
 Mon 20 May | Self-attention and transformers | [slides](https://github.com/erodola/DLAI-s2-2024/raw/main/13_trans/13-trans.pdf) ; [Training neural networks effectively](https://youtu.be/wO4quYlQUyE?si=fkCSLjrvjS0v3Z43) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2024/blob/main/labs/11_Transformers.ipynb)
-Tue 21 May | TBD |  |
+Tue 21 May | TBD | Create your own agent 👤 | [source code](https://github.com/crisostomi/agent-demo)
 
 **End**
