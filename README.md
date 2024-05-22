@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Dept. of Computer Science
 
 ## News 🗞️
+- **21/05/2024:** The course if finished, see you at the exam!
 - **15/05/2024:** The **project list** is published [here](https://github.com/erodola/DLAI-s2-2024/raw/main/project_list.pdf).
 - **06/05/2024:** The **midterm results** are published [here](https://github.com/erodola/DLAI-s2-2024/raw/main/midterm-results.pdf).
 - **05/05/2024:** Due to the Professor and the entire research team attending [ICLR 2024](https://iclr.cc/) to present several works, the lab session of **Tue 07 May will be conducted offline**. Reach out to the Professor via email for questions and issues on the notebook.
