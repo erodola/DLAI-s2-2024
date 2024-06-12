@@ -3,7 +3,8 @@
 Course material, 2nd semester a.y. 2023/2024, Dept. of Computer Science
 
 ## News 🗞️
-- **10/06/2024:** The grades for the written exam of June 5th are available [here](https://github.com/erodola/DLAI-s2-2024/raw/main/June05-grades.pdf)
+- **12/06/2024:** The solutions for the written exam of June 5th are available [here](https://github.com/erodola/DLAI-s2-2024/raw/main/DLAI_Jun05_Exam_Solutions.pdf).
+- **10/06/2024:** The grades for the written exam of June 5th are available [here](https://github.com/erodola/DLAI-s2-2024/raw/main/June05-grades.pdf).
 - **24/05/2024:** The written exam of June 5th will be held **in Aula 2L from 12:00 to 14:00**.
 - **21/05/2024:** The course if finished, see you at the exam!
 - **15/05/2024:** The **project list** is published [here](https://github.com/erodola/DLAI-s2-2024/raw/main/project_list.pdf).
