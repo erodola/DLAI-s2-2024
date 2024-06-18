@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Dept. of Computer Science
 
 ## News 🗞️
+- **18/06/2024:** The latest possible date to deliver the **project for the July session is Friday 19 July**.
 - **12/06/2024:** The solutions for the written exam of June 5th are available [here](https://github.com/erodola/DLAI-s2-2024/raw/main/DLAI_Jun05_Exam_Solutions.pdf).
 - **10/06/2024:** The grades for the written exam of June 5th are available [here](https://github.com/erodola/DLAI-s2-2024/raw/main/June05-grades.pdf).
 - **24/05/2024:** The written exam of June 5th will be held **in Aula 2L from 12:00 to 14:00**.
