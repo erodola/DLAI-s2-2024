@@ -51,8 +51,8 @@ In addition, [here](https://github.com/erodola/DLAI-s2-2022/raw/main/resources/C
 ## Grading 📊
 
 **Exam dates**
-- 5 June 2024
-- 10 July 2024
+- <s>5 June 2024</s>
+- <s>10 July 2024</s>
 - 10 September 2024
 
 Evaluation proceeds according to the following steps:
