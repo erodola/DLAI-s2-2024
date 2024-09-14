@@ -68,14 +68,9 @@ We may require an oral exam in doubtful cases or whenever necessary.
 - The project list for 2023/2024 is [here](https://github.com/erodola/DLAI-s2-2024/raw/main/project_list.pdf).
 - The template for the final project report is [here](https://github.com/erodola/DLAI-s2-2024/raw/main/template.zip).
 
-Here you can find some example sheets of past written exams:
+## Past exams 📑 
 
-- [June 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/June-2021.pdf)
-- [July 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/July-2021.pdf)
-- [September 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/September-2021.pdf)
-- [October 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/October-2021.pdf)
-- [January 2022](https://github.com/erodola/DLAI-s2-2022/raw/main/exams/Jan22.pdf)
-- [February 2022](https://github.com/erodola/DLAI-s2-2022/raw/main/exams/Feb22.pdf)
+You can find all past written exams in this [Google Drive folder](https://drive.google.com/drive/folders/1hwafIolYEOEjJYRnyKg2kodFqgKDZklZ)
 
 ## Lectures 🗣️
 
