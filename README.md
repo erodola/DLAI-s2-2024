@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Dept. of Computer Science
 
 ## News 🗞️
+- **14/09/2024:** The grades for the written exam of September 10th are available [here](https://github.com/erodola/DLAI-s2-2024/raw/main/September10-grades.pdf).
 - **04/09/2024:** The written exam of September 10th will be held **in Aula 2L from 14:00 to 16:00**.
 - **16/07/2024:** The grades for the written exam of July 10th are available [here](https://github.com/erodola/DLAI-s2-2024/raw/main/July10-grades.pdf).
 - **20/06/2024:** The written exam of July 10th will be held **in Aula 2L from 9:00 to 11:00**.
@@ -54,7 +55,7 @@ In addition, [here](https://github.com/erodola/DLAI-s2-2022/raw/main/resources/C
 **Exam dates**
 - <s>5 June 2024</s>
 - <s>10 July 2024</s>
-- 10 September 2024
+- <s>10 September 2024</s>
 
 Evaluation proceeds according to the following steps:
 
